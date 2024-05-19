@@ -1,0 +1,12 @@
+{
+  "name": "js-for-react-native-11358166",
+  "version": "1.0.0",
+  "description": "NAME: KOTEY DOROTHY NAA-DEI\r ID: 11358166\r DCIT 202 ASSIGNMENT ONE",
+  "main": "arrayManipulation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
